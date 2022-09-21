@@ -555,7 +555,7 @@ header .navbar a:hover{
 /*FOOTER*/
 
 footer {
-	background: #000000;
+	background: black;
 	background: -webkit-linear-gradient(59deg, #000000, #000000);
 	background: linear-gradient(59deg, #000000, #000000);
 	color: white;
